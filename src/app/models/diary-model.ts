@@ -5,4 +5,5 @@ export interface DiaryModel {
     dueDate: Date;
     image: string;
     completed: boolean;
+    Notified:boolean;
 }
