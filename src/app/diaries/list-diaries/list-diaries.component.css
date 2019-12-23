@@ -1,0 +1,9 @@
+.float-left {
+    float: left;
+}
+mat-list-option {
+    font-weight: bold;
+}
+mat-card {
+    margin: 5%;
+}
